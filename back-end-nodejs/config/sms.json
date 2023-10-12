@@ -1,0 +1,8 @@
+{
+	"development": {
+		"smsServiceName": "Twilio"
+	},
+	"production": {
+		"smsServiceName": "Twilio"
+	}
+}

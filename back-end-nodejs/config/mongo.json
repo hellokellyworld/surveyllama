@@ -1,0 +1,15 @@
+{
+	"development": {
+		"database": "surveymonkey-mongodb-development",
+		"host": "127.0.0.1"
+	},
+	"production": {
+		"use_env_variable": "MONGODB_URI"
+	},
+	"mongodbOptions": {
+		"useNewUrlParser": true,
+		"useUnifiedTopology": true,
+		"useCreateIndex": true,
+		"useFindAndModify": false
+	}
+}

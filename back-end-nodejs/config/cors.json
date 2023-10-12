@@ -1,0 +1,8 @@
+{
+	"development": {
+		"cors_whitelist": ["http://localhost", "https://localhost"]
+	},
+	"production": {
+		"use_env_variable": "SL_CORS_WHITELIST"
+	}
+}

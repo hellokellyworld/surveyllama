@@ -1,0 +1,14 @@
+{
+	"short_name": "SurveyLlama App",
+	"name": "SurveyLLama App",
+	"icons": [
+		{
+			"src": "SurveyLlama.svg",
+			"type": "image/svg",
+			"sizes": "603.75x375"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000"
+}

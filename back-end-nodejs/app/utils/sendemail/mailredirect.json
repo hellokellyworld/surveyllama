@@ -1,0 +1,8 @@
+{
+	"development": {
+		"mailService": "GMAIL"
+	},
+	"production": {
+		"mailService": "Mailgun"
+	}
+}

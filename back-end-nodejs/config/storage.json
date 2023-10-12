@@ -1,0 +1,8 @@
+{
+	"development": {
+		"serviceName": "Dropbox"
+	},
+	"production": {
+		"serviceName": "Dropbox"
+	}
+}
